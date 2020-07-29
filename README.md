@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsyx666&repo=gsyx666.github.io&show_owner=fakse)](https://github.com/gsyx666/gsyx666.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsyx666&repo=gsyx666.github.io&show_owner)](https://github.com/gsyx666/gsyx666.github.io)

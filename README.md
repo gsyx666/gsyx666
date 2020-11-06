@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsyx666&repo=gsyx666.github.io&show_owner=true)](https://github.com/gsyx666/gsyx666.github.io)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+！[]（https://komarev.com/ghpvc/?gsyx666&color=green）
 

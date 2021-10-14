@@ -17,8 +17,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
 ![Java](https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=Java&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23323330.svg?style=for-the-badge&logo=Kotlin&logoColor=%23F7DF1E)
-![Shell](https://img.shields.io/badge/Shell-%23323330.svg?style=for-the-badge&logo=Shell&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=for-the-badge&logo=Bash&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)

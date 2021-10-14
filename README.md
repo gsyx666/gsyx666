@@ -9,7 +9,10 @@
 | :--------------------------------------------------------: |
 | [点我](https://gsyx.vercel.app/) |
 
+#### 技能点
 
+![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
+![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 

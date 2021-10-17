@@ -87,6 +87,11 @@
 
 ### 小众软件
 <!-- APPINN:START -->
+- [求一个地理位置打卡软件](https://www.appinn.com/geographic-location-check-in/)
+- [No Launcher – 只有 21KB 的安卓启动器](https://www.appinn.com/no-launcher-only-21kb/)
+- [《观妙中国》新专题：首个司马台长城的 360 度实景游览](https://www.appinn.com/guanmiaozhongguo-simatai/)
+- [可以期待一下：Meta – 一个用于视觉学习的笔记工具](https://www.appinn.com/projectmeta/)
+- [APEnabler – 为没有 AirPlay 按钮的视频播放器添加 AirPlay 功能[Safari]](https://www.appinn.com/apenabler-for-safari/)
 <!-- APPINN:END -->
 
 

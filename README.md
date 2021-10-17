@@ -76,6 +76,7 @@
 
 <details>
   <summary><b>少数派</b></summary>
+    <br/>
     <!-- SSPAI:START -->
 - [如何在 80 年代末的游戏行业打一场「代理人战争」？](https://sspai.com/post/69211)
 - [第三方 iOS App 背着我们干了啥？我用 R 语言寻找答案](https://sspai.com/post/69299)
@@ -83,7 +84,7 @@
 - [本月玩什么 | 密特罗德、孤岛惊魂 6、帝国时代 IV、旅行游记](https://sspai.com/post/69359)
 - [本周看什么丨最近值得一看的 10 部作品](https://sspai.com/post/69364)
 <!-- SSPAI:END -->
-  <br/>
+
 </details>
 
 <details>

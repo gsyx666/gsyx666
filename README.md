@@ -21,12 +21,15 @@
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=white)
 
 
-### 🧰 Frameworks and libraries
+<details>
+     <summary><b>🧰 Frameworks and libraries</b></summary>
+     <br/>
+    
 <p>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
-
+</details>
 
 <details>
      <summary><b>🗄️ Databases and cloud hosting</b></summary>

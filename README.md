@@ -74,34 +74,6 @@
   </p>
 </details>
 
-## feed
-
-### 少数派
-<!-- SSPAI:START -->
-- [如何在 80 年代末的游戏行业打一场「代理人战争」？](https://sspai.com/post/69211)
-- [第三方 iOS App 背着我们干了啥？我用 R 语言寻找答案](https://sspai.com/post/69299)
-- [离职指南：体面地和公司说再见](https://sspai.com/post/69056)
-- [本月玩什么 | 密特罗德、孤岛惊魂 6、帝国时代 IV、旅行游记](https://sspai.com/post/69359)
-- [本周看什么丨最近值得一看的 10 部作品](https://sspai.com/post/69364)
-<!-- SSPAI:END -->
-
-### 小众软件
-<!-- APPINN:START -->
-- [求一个地理位置打卡软件](https://www.appinn.com/geographic-location-check-in/)
-- [No Launcher – 只有 21KB 的安卓启动器](https://www.appinn.com/no-launcher-only-21kb/)
-- [《观妙中国》新专题：首个司马台长城的 360 度实景游览](https://www.appinn.com/guanmiaozhongguo-simatai/)
-- [可以期待一下：Meta – 一个用于视觉学习的笔记工具](https://www.appinn.com/projectmeta/)
-- [APEnabler – 为没有 AirPlay 按钮的视频播放器添加 AirPlay 功能[Safari]](https://www.appinn.com/apenabler-for-safari/)
-<!-- APPINN:END -->
-
-### 阮一峰
-<!-- RUANYF:START -->
-- [科技爱好者周刊（第 179 期）：AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)
-- [科技爱好者周刊（第 178 期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)
-- [JavaScript 侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)
-- [科技爱好者周刊（第 177 期）：iPad 的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)
-- [俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html)
-<!-- RUANYF:END -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)

@@ -27,8 +27,10 @@
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
 
+<details>
+     <summary><b>🗄️ Databases and cloud hosting</b></summary>
+     <br/>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
@@ -44,10 +46,10 @@
     
 </p>
 
-
+</details>
 
 <details>
-     <summary><b>### 💻 Software and tools</b></summary>
+     <summary><b>💻 Software and tools</b></summary>
      <br/>
 
 

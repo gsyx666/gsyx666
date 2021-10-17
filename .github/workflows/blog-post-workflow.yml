@@ -24,6 +24,11 @@ jobs:
         with:
           comment_tag_name: APPINN
           feed_list: "https://feeds.appinn.com/appinns"
+      - name: Pull in ruanyf posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: RUANYF
+          feed_list: "https://feeds.feedburner.com/ruanyifeng"
       #     - name: Pull in bilibili posts
       #       uses: gautamkrishnar/blog-post-workflow@master
       #        with:

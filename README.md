@@ -94,6 +94,10 @@
 - [APEnabler – 为没有 AirPlay 按钮的视频播放器添加 AirPlay 功能[Safari]](https://www.appinn.com/apenabler-for-safari/)
 <!-- APPINN:END -->
 
+### 阮一峰
+<!-- RUANYF:START -->
+<!-- RUANYF:END -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 

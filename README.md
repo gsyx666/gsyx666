@@ -96,6 +96,11 @@
 
 ### 阮一峰
 <!-- RUANYF:START -->
+- [科技爱好者周刊（第 179 期）：AR 技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)
+- [科技爱好者周刊（第 178 期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)
+- [JavaScript 侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)
+- [科技爱好者周刊（第 177 期）：iPad 的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)
+- [俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html)
 <!-- RUANYF:END -->
 
 

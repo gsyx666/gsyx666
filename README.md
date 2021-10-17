@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 在哪里找到我：
@@ -22,19 +21,18 @@
 
 
 <details>
-     <summary><b>🧰 Frameworks and libraries</b></summary>
-     <br/>
-    
-<p>
+  <summary><b>🧰 Frameworks and libraries</b></summary>
+  <br/>
+  <p>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-</p>
+  </p>
 </details>
 
 <details>
-     <summary><b>🗄️ Databases and cloud hosting</b></summary>
-     <br/>
-<p>
+  <summary><b>🗄️ Databases and cloud hosting</b></summary>
+  <br/>
+  <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -46,17 +44,13 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    
-</p>
-
+  </p>
 </details>
 
 <details>
-     <summary><b>💻 Software and tools</b></summary>
-     <br/>
-
-
-<p>
+  <summary><b>💻 Software and tools</b></summary>
+  <br/>
+  <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -77,18 +71,29 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+  </p>
+</details>
 
+<details>
+  <summary><b>少数派</b></summary>
+    <!-- SSPAI:START -->
+    <!-- SSPAI:END -->
+  <br/>
+</details>
+
+<details>
+  <summary><b>小众软件</b></summary>
+    <!-- APPINN:START -->
+    <!-- APPINN:END -->
+  <br/>
 </details>
 
 
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsyx666)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsyx666&repo=gsyx666.github.io&show_owner=true)](https://github.com/gsyx666/gsyx666.github.io)
 
 ![](https://komarev.com/ghpvc/?username=gsyx666&color=green)
-
 
 [![Hello visitors](https://visitor-badge.glitch.me/badge?page_id=gsyx666.gsyx666)](https://github.com/jwenjian/visitor-badge)

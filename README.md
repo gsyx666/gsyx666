@@ -38,6 +38,8 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="https://www.cloudflare.com/"><img alt="CloudFlare" src="https://img.shields.io/badge/CloudFlare-430098.svg?logo=CloudFlare&logoColor=white"></a>
     <a href="https://okteto.com"><img alt="Okteto" src ="https://img.shields.io/badge/Okteto-4ea94b.svg?logo=okteto&logoColor=white"></a>
+    <a href="#"><img alt="freenom" src ="https://img.shields.io/badge/freenom-4ea94b.svg?logo=freenom&logoColor=white"></a>
+    <a href="#"><img alt="EUserv" src ="https://img.shields.io/badge/euserv-4ea94b.svg?logo=euserv&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
